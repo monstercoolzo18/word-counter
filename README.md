@@ -4,6 +4,6 @@ This repository has a simple script that counts the number of words in a sentenc
 
 ## Code in This Repo  
 ```python
-sentence = input("Enter your sentence:- ")  
+sentence = input("Enter the sentence:- ")  
 word_count = len(sentence.split())  
 print(f"Your sentence has {word_count} words!")
