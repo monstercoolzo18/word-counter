@@ -1,6 +1,6 @@
 # Word Counter 📖  
 
-This repository has a simple script that counts the number of words in a sentence.  
+This repository contains a simple script that counts the number of words in a sentence.  
 
 ## Code in This Repo  
 ```python
